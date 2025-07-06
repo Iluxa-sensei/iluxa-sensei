@@ -59,3 +59,12 @@ Focused on contributing technical expertise and innovative solutions in AI-drive
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iluxa-sensei&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Iluxa-sensei&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-contribution-stats.vercel.app/api/?username=Iluxa-sensei" alt="Total Contributions Graph" />
+</p>
