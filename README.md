@@ -1,10 +1,6 @@
 # About me
 
-Passionate **Computer Engineering** high schooler with a focus on **AI** and **machine learning**.  
-Experienced in developing and applying advanced AI algorithms and models.  
-Continuously exploring new AI technologies and their applications in real-world scenarios.  
-Strong problem-solving skills, always eager to learn and adapt in a rapidly evolving field.  
-Focused on contributing technical expertise and innovative solutions in AI-driven environments.
+**Computer Engineering** student specializing in AI integration and machine learning, with hands-on experience in developing and deploying ML models using Python and PyTorch. Skilled in computer vision, building cross-platform applications, and embedding intelligent systems into real-world solutions to create impactful and accessible technologies.
 
 ---
 
